@@ -50,6 +50,11 @@
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#when-should-you-use-a-liveness-probe
 - nginx ingress-controler HA
 
+### Usefull things
+- https://learn.microsoft.com/en-us/azure/aks/command-invoke
+- https://learn.microsoft.com/en-us/azure/aks/node-access#create-an-interactive-shell-connection-to-a-linux-node
+- https://learn.microsoft.com/en-us/azure/aks/start-stop-nodepools?source=recommendations
+
 ---
 ## Features
 ### AutoScaling
@@ -89,6 +94,9 @@
 ### Storage
 - https://learn.microsoft.com/en-us/azure/aks/csi-storage-drivers
 
+### WebAssembly System Interface (WASI) node pools
+- https://learn.microsoft.com/en-us/azure/aks/use-wasi-node-pools
+
 ### Security
 - BYOK - https://learn.microsoft.com/en-us/azure/aks/azure-disk-customer-managed-keys
 - proxy - https://learn.microsoft.com/en-us/azure/aks/http-proxy
@@ -118,4 +126,3 @@
 - https://bshayr29.medium.com/build-your-own-admission-controllers-in-kubernetes-using-go-bef8ba38d595
 - https://dev.to/douglasmakey/implementing-a-simple-k8s-admission-controller-in-go-2dcg
 - https://dev.to/ashokan/simple-validation-webhook-with-python-5bof
-
