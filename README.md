@@ -10,6 +10,11 @@
 - https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/kubernetes_cluster_node_pool
 - https://github.com/kubernetes-sigs/cluster-api-provider-azure - https://capz.sigs.k8s.io/
 
+
+### AKS checklist
+
+- https://www.the-aks-checklist.com/
+
 ---
 ## Maintenance
 ### Upgrade k8s version
@@ -103,3 +108,14 @@
 - https://learn.microsoft.com/en-us/azure/aks/command-invoke
 - https://learn.microsoft.com/en-us/azure/aks/limit-egress-traffic?source=recommendations#restrict-egress-traffic-using-azure-firewall
 - https://learn.microsoft.com/en-us/azure/aks/egress-outboundtype
+
+### k8s operators and admission-controller
+- https://github.com/nolar/kopf
+- https://kopf.readthedocs.io/en/stable/
+- https://sdk.operatorframework.io/docs/building-operators/golang/tutorial/
+- https://operatorhub.io/
+- https://www.baeldung.com/java-kubernetes-admission-controller
+- https://bshayr29.medium.com/build-your-own-admission-controllers-in-kubernetes-using-go-bef8ba38d595
+- https://dev.to/douglasmakey/implementing-a-simple-k8s-admission-controller-in-go-2dcg
+- https://dev.to/ashokan/simple-validation-webhook-with-python-5bof
+
