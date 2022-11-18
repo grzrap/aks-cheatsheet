@@ -72,9 +72,8 @@
 
 ### AKS Bring your own CNI - part 2
 - https://learn.microsoft.com/en-us/azure/aks/use-byo-cni?tabs=azure-cli
-- https://www.tigera.io/blog/byocni-introducing-calico-cni-for-azure-aks/
+- https://www.tigera.io/blog/byocni-introducing-calico-cni-for-azure-aks
 - https://docs.cilium.io/en/v1.12/gettingstarted/k8s-install-default/#k8s-install-quick
-
 - https://www.youtube.com/watch?v=KvVWEmvsZqM
 - https://www.youtube.com/watch?v=aLq3O3l2LF4&t=3110s
 
